@@ -1,0 +1,2 @@
+# Tesseract
+-keep class com.googlecode.tesseract.android.** { *; }
